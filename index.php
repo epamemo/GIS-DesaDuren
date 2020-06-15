@@ -14,7 +14,7 @@ $cb->l_header_style = 'glass';
         <div class="content text-center">
             <div class="pt-50 pb-20">
                 <h1 class="font-w700 text-white mt-50 mb-2">Duren Serasi</h1>
-                <h2 class="h4 font-w400 text-white-op">Sistem Informasi Geografis Desa</h2>
+                <h2 class="h4 font-w400 text-white-op">SIGESA - Sistem Informasi Geografis Desa</h2>
             </div>
         </div>
     </div>
