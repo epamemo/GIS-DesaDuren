@@ -44,6 +44,31 @@ $cb->l_header_style = 'glass';
             </div>
         </div>
     </div>
+    <div class="pt-100 pb-50">
+        <div class="position-relative">
+            <h2 class="font-w700 mb-10 text-center">    
+                Peta Sebaran <span class="text-primary">Desa Duren</span>
+            </h2>
+            <h3 class="h4 font-w400 text-muted text-center">
+                Pemetaan berdasarkan wilayah dusun, monografi, dan potensi desa.
+            </h3>
+        </div>
+    </div>
+    <div class="col-md-12" style="margin-top:-5%">
+        <div class="block">
+            <div class="block-header block-header-default">
+                <span class="si si-map mr-2"></span>
+                <h3 class="block-title">Peta Vector</h3>
+                <div class="block-options">
+                    <!-- To toggle fullscreen a block, just add the following properties to your button: data-toggle="block-option" data-action="fullscreen_toggle" -->
+                    <button type="button" class="btn-block-option" data-toggle="block-option" data-action="fullscreen_toggle"></button>
+                </div>
+            </div>
+            <div class="block-content">
+                Taroh Sini ya
+            </div>
+        </div>
+    </div>
 </div>
 <!-- END Page Content -->
 
