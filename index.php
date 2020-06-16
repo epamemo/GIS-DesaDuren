@@ -22,7 +22,7 @@ $cb->l_header_style = 'glass';
 <!-- END Header -->
 
 <!-- Page Content -->
-<div class="content">
+<div class="content mb-50">
     <div class="d-flex align-items-center">
         <div class="content content-full">
             <div class="row no-gutters mt-20 w-100 py-100 overflow-hidden">
@@ -74,6 +74,39 @@ $cb->l_header_style = 'glass';
     </div>
 </div>
 <!-- END Page Content -->
+<div class="bg-white">
+    <div class="content content-full text-center overflow-hidden">
+        <div class="py-100">
+            <h2 class="font-w700 mb-50">
+                Created with <i class="fa fa-heart text-danger"></i> by
+            </h2>
+            <div class="row">
+                <div class="col-md-6 col-xl-6">
+                    <a class="block block-link-pop bg-info text-center" href="javascript:void(0)">
+                        <div class="block-content block-content-full">
+                            <img class="img-avatar img-avatar-thumb" src="https://lh3.googleusercontent.com/a-/AOh14Ghsea_HginFqbxbeCunOsCJyvod_97EObGjdIp7=s96-c-rg-br100" alt="">
+                        </div>
+                        <div class="block-content block-content-full bg-black-op-5">
+                            <div class="font-w600 text-white mb-5">Rozak Ilham Aditya</div>
+                            <div class="font-size-sm text-white-op">4611417054</div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-xl-6">
+                    <a class="block block-link-pop bg-success text-center" href="javascript:void(0)">
+                        <div class="block-content block-content-full">
+                            <img class="img-avatar img-avatar-thumb" src="https://lh3.googleusercontent.com/a-/AOh14Ghv6vmy9C-ADmg2bVMFMITCN4t4Jws-izj7lN5ajA=s50-c-k-no" alt="">
+                        </div>
+                        <div class="block-content block-content-full bg-black-op-5">
+                            <div class="font-w600 text-white mb-5">Epafraditus Memoriano</div>
+                            <div class="font-size-sm text-white-op">4611417070</div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <?php require 'inc/_global/views/page_end.php'; ?>
 <?php require 'inc/_global/views/footer_start.php'; ?>
