@@ -7,5 +7,6 @@
     <link rel="stylesheet" id="css-theme" href="<?php echo $cb->assets_folder; ?>/css/themes/<?php echo $cb->theme; ?>.min.css">
     <?php } ?>
     <!-- END Stylesheets -->
+    
 </head>
 <body>

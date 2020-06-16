@@ -65,7 +65,7 @@ $cb->l_header_style = 'glass';
                 </div>
             </div>
             <div class="block-content">
-                Taroh Sini ya
+            <iframe src="qgis/index.html" width="100%" height="900" style="border:none;" title="Peta Sebaran Desa Duren"></iframe>
             </div>
         </div>
     </div>

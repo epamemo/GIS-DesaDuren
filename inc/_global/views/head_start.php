@@ -26,4 +26,4 @@
         <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $cb->assets_folder; ?>/media/favicons/apple-touch-icon-180x180.png">
         <!-- END Icons -->
 
-        <!-- Stylesheets -->
+        
